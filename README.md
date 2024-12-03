@@ -14,17 +14,23 @@ login.page:-
 Booking:-
 ![R1](book_appoimtment.png)
 
-user_appointment:-
+User_appointment:-
 ![R1](user_appointment.png)
 
-user_dashboard:-
+User_dashboard:-
 ![R1](user_dashboard.png)
 
-adminlogin:-
+Adminlogin:-
 ![R1](adminlogin.png)
 
 Admin_Dasboard:-
 ![R1](admin_dashboard.png)
+
+Admin_manage_in_users:-
+![R1](admin_manage.png)
+
+Admin_manage_appointment:-
+![R1](admin_manageappoint.png)
 
 
 
