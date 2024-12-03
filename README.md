@@ -27,7 +27,7 @@ Adminlogin:-
 Admin_Dasboard:-
 ![R1](admin_dashboard.png)
 
-Admin_manage_in_users:-
+Admin_manage_users:-
 ![R1](admin_manage.png)
 
 Admin_manage_appointment:-
