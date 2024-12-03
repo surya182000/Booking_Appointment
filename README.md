@@ -36,7 +36,7 @@ Admin_manage_appointment_Status:-
 ![R1](admin_apdateatatus.png)
 
 Database:-
-![R1](database_desgin.png)
+![R1](manage_appointment_in _dstabase.png)
 
 Manage_appointment_in _database:-
 ![R1](manage_appointment_in _dstabase.png)
