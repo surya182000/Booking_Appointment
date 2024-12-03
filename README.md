@@ -3,3 +3,11 @@ The Booking Management System efficiently handles appointment scheduling with tw
 
 Homepage:-
 ![R1](homepage.png)
+
+Registerpage:-
+![R2](register.png)
+
+login.page:-
+1[R3].(userlogin.png)
+
+
