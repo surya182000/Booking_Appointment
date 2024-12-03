@@ -5,9 +5,9 @@ Homepage:-
 ![R1](homepage.png)
 
 Registerpage:-
-![R2](register.png)
+![R1](register.png)
 
 login.page:-
-1[R3].(userlogin.png)
+![R1].(userlogin.png)
 
 
