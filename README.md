@@ -39,8 +39,7 @@ Database:-
 ![R1](database_desgin.png)
 
 
-Manage_appointment_in _database:-
-![R1](manage_appointment_in _dstabase.png)
+
 
 
 
