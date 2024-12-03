@@ -20,6 +20,12 @@ user_appointment:-
 user_dashboard:-
 ![R1](user_dashboard.png)
 
+adminlogin:-
+![R1](adminlogin.png)
+
+Admin_Dasboard:-
+![R1](admin_dashboard.png)
+
 
 
 
