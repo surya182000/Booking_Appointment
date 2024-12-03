@@ -16,6 +16,10 @@ Booking:-
 user_appointment:-
 ![R1](user_appointment.png)
 
+user_dashboard:-
+![R1](user_dashboard.png)
+
+
 
 
 
